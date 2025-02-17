@@ -1,10 +1,10 @@
 export const credentials = [
     {
-        email: 'user@example.com',
+        email: 'user@gmail.com',
         password: 'password123'
     },
     {
-        email: 'admin@example.com',
+        email: 'admin@gmail.com',
         password: 'admin123'
     }
 ];
